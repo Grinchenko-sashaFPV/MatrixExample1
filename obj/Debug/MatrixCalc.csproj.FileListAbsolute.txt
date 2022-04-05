@@ -1,0 +1,14 @@
+C:\Users\student.LAN\Desktop\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.exe.config
+C:\Users\student.LAN\Desktop\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.exe
+C:\Users\student.LAN\Desktop\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.pdb
+C:\Users\student.LAN\Desktop\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csprojAssemblyReference.cache
+C:\Users\student.LAN\Desktop\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csproj.CoreCompileInputs.cache
+C:\Users\student.LAN\Desktop\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.exe
+C:\Users\student.LAN\Desktop\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.pdb
+F:\GitHub\ProductC#\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.exe.config
+F:\GitHub\ProductC#\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.exe
+F:\GitHub\ProductC#\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.pdb
+F:\GitHub\ProductC#\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csprojAssemblyReference.cache
+F:\GitHub\ProductC#\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csproj.CoreCompileInputs.cache
+F:\GitHub\ProductC#\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.exe
+F:\GitHub\ProductC#\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.pdb
